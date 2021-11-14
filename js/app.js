@@ -10,6 +10,7 @@ var app = {
       "greenlight",
       "yellowligtht",
       "redlight",
+      "brownlight"
     ],
     
     selectedStyle: "plain",
